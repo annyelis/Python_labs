@@ -4,8 +4,8 @@ setup(
     name="encrypt_algorithms",
     version="1.0.0",
     description="A library for encryption algorithms, including Grosfeld and Vigenere methods.",
-    author="Ваше имя",
-    author_email="ваш_email@example.com",
+    author="annyelis",
+    author_email="anutikelis@gmail.com",
     url="https://github.com/ваш_профиль/encrypt-algorithms",
     packages=find_packages(),
     classifiers=[
