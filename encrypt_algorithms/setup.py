@@ -6,7 +6,7 @@ setup(
     description="A library for encryption algorithms, including Grosfeld and Vigenere methods.",
     author="annyelis",
     author_email="anutikelis@gmail.com",
-    url="https://github.com/ваш_профиль/encrypt-algorithms",
+    url="https://github.com/annyelis/Python_labs/tree/main/encrypt_algorithms",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
