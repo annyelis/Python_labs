@@ -33,7 +33,7 @@ pip install encrypt_algorithms
 Пример использования библиотеки:
 
 ```python
-from encrypt_algorithms import complex_encryption
+from encrypt_algorithms.complex_encryption import Gronsfeld_generate_key, Gronsfeld_encrypt, Gronsfeld_encrypt
 
 # Генерируем ключ шифрования
 key = Gronsfeld_generate_key(length):

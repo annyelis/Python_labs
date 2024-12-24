@@ -1,5 +1,9 @@
 from setuptools import setup, find_packages
 
+def readme():
+    with open('README.md', 'r') as f:
+        return f.read()
+
 setup(
     name="encrypt_algorithms",
     version="1.0.0",
