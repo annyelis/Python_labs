@@ -25,7 +25,7 @@
 Установите библиотеку с помощью pip:
 
 ```bash
-pip encrypt_algorithms
+pip install encrypt_algorithms
 ```
 
 ## Использование
